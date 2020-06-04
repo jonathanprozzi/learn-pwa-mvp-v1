@@ -1,0 +1,88 @@
+---
+title: "Introduction to G Suite"
+date: "2020-05-04"
+---
+
+## Objectives and Overview
+
+This lesson introduces Google's [G Suite](https://gsuite.google.com/), a collection of free collaboration, communication, and productivity tools. This lesson provides a general overview - other lessons cover the tools with more detail.
+
+### Lesson Objectives
+
+- Discover Google's G Suite
+- Identify the G Suite productivity, collaboration, and communication tools
+- Begin recognizing when to use each tool
+
+* * *
+
+## What is G Suite?
+
+Google's [G Suite](https://gsuite.google.com/) is a collection of free collaboration, communication, and productivity tools. Professionals in many industries use these tools. Building familiarity and confidence with the G Suite will enhance your own productivity and prepare you for future work and learning. You're able to access these tools if you have a Google account.
+
+When you're logged in to your account, you can access these tools directly from the Google homepage. To do this, you click on the **dots button** in the top right corner:
+
+![](images/g-suite-chrome-steps.gif)
+
+## Core Tools
+
+G Suite includes a variety of tools covering several uses. You're going to use many of them during your youth employment program. Even if you don't use the others, it's good to know that they're available for when you need them. Let's take a quick look at each of the core tools, and what they do.
+
+### Gmail
+
+Gmail is Google's free email service. It is one of the most common email services in the world. Many people you interact within a personal and professional setting likely have a Gmail address. Google also provides Gmail for organizations and businesses. If you're a DHF youth employee, your DHF email address is actually a Gmail account! We have Gmail set up for our organization.
+
+You can directly access Gmail by heading to [https://gmail.com/](http://gmail.com/) or you can access it from the Google apps button on the Google homepage. To access these apps, click the **dots** button in the top right corner. All of the available Google apps will pop up:
+
+![](images/g-suite-chrome-gmail-1024x617.jpg)
+
+Gmail lets you send, receive, and store emails. The free plan provides a generous amount of storage space for email. While email may not be the most interesting thing in the online world, it's crucial. Email is a central communication tool, and you can also log in to other online tools with your Gmail account.
+
+### Google Drive
+
+Google Drive is a storage and organization tool. You're given a generous amount of storage space for free, but if this isn't enough space you're able to pay more to upgrade. Files created with G Suite tools (such as documents, forms, spreadsheets, slidedecks) are saved to your Google Drive.
+
+You can access files saved on your drive from _any device_ as long as you're logged in to your Google account. This allows you to save and access files as you need from anywhere you can connect to the Internet. You'll be using Google Drive throughout the youth employment program, and probably a lot afterward as well!
+
+You can directly access Google Drive by heading to [drive.google.com](http://drive.google.com) or you can access it from the Google apps button on the Google homepage:
+
+![](images/g-suite-chrome-drive-1024x617.jpg)
+
+### Google Docs
+
+Google Docs is a writing and collaboration tool. This is similar to Microsoft Word. Documents that you create are stored in your Drive and can be accessed from any device. Being able to access documents from any device (as long as you're online and logged in) saves lots of time. You can work on a paper at school and continue it at home, or at the library.
+
+Another feature is that Google Docs is collaborative. You're able to share a document with other people (even if they're across the world) and work together.
+
+You'll be exploring Google Docs throughout this program. To access it, you can go to [docs.google.com](http://docs.google.com) or open it through the Google apps button:
+
+![](images/g-suite-chrome-docs-1024x617.jpg)
+
+### Google Calendar
+
+Google Calendar is a productivity and scheduling tool included in the Google Suite. You're able to schedule events for yourself and as well as others. You'll use Google Calendar throughout this program to manage your schedule. Keeping yourself organized and time management are important skills, and Google Calendar is a great tool for this job.
+
+To access this, you can go to [http://calendar.google.com](http://calendar.google.com) or click on the button in the Chrome apps menu:
+
+![](images/g-suite-chrome-calendar-1024x617.jpg)
+
+### Google Sheets
+
+Google Sheets is a collaborative spreadsheet tool similar to Microsoft Excel. This is one of the most powerful and flexible G Suite tools. Knowing your way around a spreadsheet is a valuable skill that you'll use in school, work, and personal environments. Some people even build entire businesses around information inside Google Sheets!
+
+This tool won't be covered in as much detail during this course, but there are many free resources available if you want to learn more. To access it, head to [http://sheets.google.com](http://sheets.google.com) or click on the **Sheets** button in the Chrome apps menu:
+
+![](images/g-suite-chrome-sheets-1024x617.jpg)
+
+### Google Slides
+
+Google Slides is a presentation tool similar to Microsoft Powerpoint. One of the most useful features of this tool is that you can share and collaborate with others. The collaboration is a really powerful feature with many uses. For example, you and a classmate could use Google Slides to co-create a school presentation. At DHF, we've used Google Slides to create slidedecks where multiple teammates were able to contribute.
+
+To access Google Slides, go to [http://slides.google.com](http://slides.google.com) or click on the **Slides** button in the Chrome apps menu:
+
+![](images/g-suite-chrome-slides-1024x617.jpg)
+
+## Where Are My Files?
+
+G Suite saves your content to the _cloud_. The cloud is a collection of servers that are offsite and can be accessed from your device. Since Google owns G Suite, your data and content are saved on Google's servers instead of your device. Anything that you create is connected to your Google account. Any time you need to access your content, you just need to log in to your account. This allows you to access anything you make (such as documents) from any device!
+
+You'll be exploring several of these tools throughout this program. Your work will be saved to your Google Drive. After you've checked out the overview for each tool, move on to the next lesson!

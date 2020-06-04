@@ -1,0 +1,92 @@
+---
+title: "Getting to Know Your Browser"
+date: "2020-01-15"
+---
+
+## Objectives and Overview
+
+Becoming comfortable with how a web browser works is a crucial digital literacy skill. This lesson introduces _Chrome_, a web browser created by Google. There are many other web browsers such as Safari, Microsoft Edge, Mozilla Firefox, and many others. This lesson walks through the Chrome interface and shows basic skills such as creating and switching between browser tabs.
+
+### Lesson Objectives
+
+- Identify key parts of the Google Chrome interface
+- Understand the difference between new tabs and windows
+- Demonstrate the ability to create a new tab and a new window
+- Identify Chrome browser shortcuts
+
+* * *
+
+## Getting to Know Chrome
+
+This activity walks through the Google Chrome interface and covers basic skills you should know for success with the Chrome browser.
+
+### Chrome Interface: Main View
+
+Let's start by opening up Chrome. You can do this by clicking on the Chrome icon. If you have Chrome in your dock, you can launch it from there. This opens up a new window in Chrome. Let's take a look at the interface:
+
+Let's take a big picture view of the Chrome browser. Check out this image:
+
+![](images/chrome-browser-search-1-1024x610.jpg)
+
+- The **navigation tools** are for moving around pages you've visited
+- The **web address** is where you'll enter website addresses you want to visit, such as digitalharbor.org
+- The **search** area is where you can search the Internet for information
+
+There are key more pieces of the interface that we should check out. Let's dive deeper:
+
+![Chrome browser interface](images/chrome-interface-1-1024x609.jpg)
+
+1. This is the **address bar** where you enter _website addresses_ such as digitalharbor.org
+2. These are your **extensions** - tools you can add to Chrome
+3. This is your **bookmarks bar** - quick access to websites you've saved
+4. This is the **search bar** - you can enter a term and search for it
+
+### Navigating Chrome
+
+The main navigation buttons are **back, forward, refresh, and home**. These buttons are to the left of the URL bar:
+
+![](images/chrome-navigation-buttons-1024x109.jpg)
+
+- The **back button** returns you to the previous page.
+
+- The **forward button** moves you forward (only if you've navigated back).
+
+- The **refresh button** reloads the current page.
+
+- The **home button** takes you to the home page, which is google.com by default.
+
+### Bookmarks
+
+You're able to save websites you like by creating a **bookmark**. You can think of bookmarks the same way you would bookmark a page in a book. It's a way to save a page so you can quickly jump to it later. To add a bookmark, click the **star button** to the right of the URL bar:
+
+![](images/chrome-bookmark-1024x61.jpg)
+
+Once you click on the **star button** you can name the page you're saving:
+
+![](images/chrome-bookmark-2-1024x616.jpg)
+
+You'll need to **manage your bookmarks**. To do this, you can use Chrome's **Bookmark Manager**. To open this, click on the **Bookmarks** menu and choose **Bookmark Manager**:
+
+![](images/chrome-bookmarks-manager.gif)
+
+### Tabs and Windows
+
+Chrome has **tabs** and **windows**. The main view you're working in is called the **window**. Opening a new window is like opening Chrome again without losing your previous work.
+
+To add a new window, go to the **File** menu and click **New Window**:
+
+![](images/chrome-new-window.gif)
+
+If you prefer to only use a single window of Chrome, you're able to add new **tabs**. Tabs are new pages but within a single view of Chrome. To open a new tab, click the **\+ button** next to your current tab:
+
+![](images/chrome-new-tab.gif)
+
+You can now switch between tabs!
+
+#### Why use Tabs?
+
+You may be wondering why you'd want to use tabs instead of windows. This is personal preference, but tabs are nice when you're opening related web pages (such as if you're working on a project) and want them to be in the same Chrome window. Be careful though, if you close the window, you'll lose all your open tabs!
+
+## Resources
+
+[Chrome Keyboard Shortcuts:](https://support.google.com/chrome/answer/157179?hl=en) Here is a collection of useful keyboard shortcuts that will save you lots of time when using Chrome. They’re listed for Mac, Windows, and Linux.

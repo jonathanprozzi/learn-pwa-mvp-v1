@@ -1,0 +1,52 @@
+---
+title: "Chrome: Google Search Results"
+date: "2020-05-04"
+---
+
+## Objectives and Overview
+
+This lesson is a "quick start" version that aims to quickly get you up and running with Google searching. Now that you've reviewed the Chrome interface, let's dive into a Google search. This is one of the most important skills to practice. Building Google search skills opens up access to a world of knowledge, but it can be overwhelming. This lesson provides an overview of the basics.
+
+### Lesson Objectives
+
+* * *
+
+## Google Search
+
+Remember, the **search area** is on the Google homepage. Let's take a look at how to search. To start, you need to enter a **search term** into the area and hit the **enter key** on your computer. In this example, the search term is "Online learning resources":
+
+![](images/chrome-search-1024x610.jpg)
+
+You'll see that Google tries to guess what you want to search for and provides suggestions. Sometimes these are helpful and sometimes they aren't. Open a new tab and search for this term yourself so you have an example.
+
+### Search Results
+
+Google then displays the **search results** for your term. The results are webpages that meet include what you've searched for. Knowing how to structure your search terms is a skill. Let's start by checking out the results for our search:
+
+![](images/chrome-search-results-ads-1024x610.jpg)
+
+Google returned 2,150,000,000 results for the search term - that's a lot of pages! If you look at the results closely, you'll see that several of the first results have say _Ad_ on the left. These are _advertisements_. While these pages may be what you're looking for, it's good to know that someone has paid for these sites to be at the top of the search results. Often, the first 10 results are paid ads.
+
+Let's keep scrolling through the results.
+
+![](images/chrome-search-results-social-1024x602.jpg)
+
+The next type of result you may see is for social media. This image shows a series of tweets on Twitter that match the term. This _may_ be what you're looking for, but likely isn't. This is another "gotcha" that's good to spot.
+
+Let's keep scrolling!
+
+![](images/chrome-search-results-1-1024x602.jpg)
+
+Now these look like pages! After scrolling through the ads and social media, the results are web pages.
+
+### Why Does This Matter?
+
+You may be wondering why you need to know how to spot different types of search results. This is a part of building _digital literacy_ skills. You want to be able to identify the _type of source_ that you're looking at. Just like with the offline world, you often need to know the difference between a magazine, a tabloid, or a book. You can think of this in a similar way.
+
+Sometimes if you're doing research for school or for your job you may not want to use the social media results. Also, while the ads are often actual webpages, you'll want to be aware that someone paid for those sites to rank at the top of the results. Building this awareness helps you build an understanding of your online world.
+
+You'll dive deeper into these types of topics in another course. This is meant to be a quick start guide to navigating search results. Next, let's look at tips and tricks to refine our searches!
+
+## Google Search History
+
+As you search, Google keeps a **search history** of your search terms and the pages you visit. This is helpful, but new learners aren't often aware.

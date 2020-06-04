@@ -1,0 +1,119 @@
+---
+title: "Chrome: Signing in to a Google Account"
+date: "2020-04-27"
+---
+
+## Objectives and Overview
+
+This lesson demonstrates how to sign into your Google Account in the Chrome browser. Included are some things to be aware of and "gotchas" that you should know.
+
+### Lesson Objectives
+
+- Be able to tell if you're signed your Google account in Chrome
+- Be able to sign in and out of your account in Chrome
+- Identify the benefits of signing in to Chrome with your Google Account
+- Identify the benefits of adding multiple accounts to Chrome
+
+* * *
+
+## Chrome and Google Accounts
+
+You're able to use Chrome to browse the Internet without a Google account. Unless you've previously created a Google account, you've probably used Chrome without being signed in. One of the strengths of Google Suite is that all the tools are tied together. When you're signed in to Chrome with your account, all of the Google tools you use will automatically open with you logged in. This can get tricky when you have more than one account, but it's very helpful when you have a single account. Let's dive in.
+
+### Am I Signed In?
+
+It's important to know if you're signed in to Chrome. Let's start by comparing a Chrome window with an account signed in and one without an account signed in.
+
+Note: Some of the examples used show Chrome with a dark gray background. This is because these examples were created using Chrome's _Incognito Mode_ windows. You'll learn more about that in later lessons.
+
+This first example shows a Chrome window _without an account signed in_. The biggest sign is that there is the blue **Sign in** button in the top right.
+
+![](images/google-account-signin-1-1-1024x581.jpg)
+
+Here's an example of a Chrome window with a signed-in account. The biggest difference is that the sign in button is replaced with your profile avatar (your profile image):
+
+![](images/google-account-siginin-3-1024x572.jpg)
+
+This is a great way to tell if you're signed in. Basically, if you see the blue **Sign in** button, it's clear that you're not signed in.
+
+### Signing In to Chrome
+
+Let's now look at how to sign in with a Google account. First, click the Sign in button that was shown in the above example:
+
+![](images/google-account-signin-1-2-1024x581.jpg)
+
+This brings up a window where you enter your account login information. Start by entering your Gmail address and clicking the **Next** button. You'll then need to enter your Gmail password. Once you do that, you'll be logged in to Chrome!
+
+![](images/google-account-signin-2-1024x573.jpg)
+
+## Signing Out of Chrome
+
+If you're going to be signing in to Chrome, you need to know how to sign out. This helps keep you safe since you don't want to allow other folks to access your account. You don't necessarily need to sign out after every browsing session, but you definitely should if you're sharing a computer or using a public device.
+
+Here's a gif showing how to sign out of Chrome:
+
+![](images/google-account-signout-steps.gif)
+
+To start, click on your avatar (profile photo) in the top right corner:
+
+![](images/google-account-signout-1-1024x618.jpg)
+
+This opens the account manager window. Clicking the **Sign out** button signs you out of Chrome:
+
+![](images/google-account-signout-2-1024x618.jpg)
+
+## Benefits of Signing In
+
+While you can fully use Chrome to browse the web without signing in, there are some reasons why you'd want to sign in. First, you're able to directly access the Gmail and other Google Suite apps. If you're signed in, you'll already be signed in to these tools when you open them. This saves a lot of time and increases productivity. You can access these tools, and your Gmail, by clicking the buttons in the top right near your avatar:
+
+![](images/google-account-button-nav-1024x617.jpg)
+
+A second benefit is that this allows for a more consistent, personalized browsing experience. Any bookmarks you save, your browsing history, and stored passwords are synced to your account. This means that you can access these things from any device if you sign into Chrome. This is useful if you're working from multiple computers such as at school, work, and home.
+
+A third benefit is that signing in makes managing multiple accounts a lot less overwhelming. While this may not be a problem you're facing right now, you'll likely be in a situation where you'll have school, work, and personal accounts. Signing in and out of these accounts in Chrome is a great productivity boost.
+
+### Accessing Google Suite Apps
+
+One of the benefits of signing in to your Google Account is that you can directly access the Google Suite applications from the browser. You'll already be logged in to your account, so you can directly open these tools from Chrome and begin working. You'll explore Google Suite later on in this course.
+
+Here's a gif showing how to access the Google Suite apps from a Chrome window:
+
+![](images/google-account-apps.gif)
+
+You can also directly access your Gmail. There is a **Gmail** button next to where you accessed the Google Suite apps. Clicking this takes you to your Gmail. This can save a lot of time if you need to quickly check your Gmail.
+
+![](images/google-account-gmail-1024x620.jpg)
+
+## Managing Multiple Accounts
+
+It's likely that at some point (if not already!) you'll have more than one Google account. At the very least, you may have personal, school, and work accounts. This can quickly become overwhelming, especially if you're using Google Suite tools for each account! Let's take a look at how signing into Chrome can help with this.
+
+Let's start by looking at the account manager area. To access this, click on your avatar in the upper right corner. Here's a gif showing the whole process:
+
+![](images/google-account-manager.gif)
+
+After you click on your avatar, the account manager pops up. This shows your current active account and all other signed-in accounts. This image shows the main account:
+
+![](images/google-account-manager-1024x618.jpg)
+
+Right now, there aren't any other accounts added. The next section shows how to add another account.
+
+### Adding Accounts
+
+Google made the process of working with multiple accounts very user-friendly. You're able to add multiple accounts by signing in with them. Once the accounts are signed in, you can choose which account you want to currently use.
+
+To get started, click on your avatar in the upper right corner of the Chrome window. Then, click the **Add another account** button:
+
+![](images/google-account-add-1-1024x611.jpg)
+
+After clicking the **Add another account** you'll see another sign-in window. Add the email address and password for the account. After you do this, it'll show up on the accounts list:
+
+![](images/chrome-account-add-2-1024x618.jpg)
+
+You can switch between accounts by clicking on each one. The _active account_ is the one listed at the top of the list. This account is what is used for logging into Gmail and Google Suite:
+
+![](images/chrome-account-add-4-1024x618.jpg)
+
+My personal email is now the active account. If I log into Gmail and open any Google Suite tools, my personal account is used since it's the active account.
+
+Knowing how to switch between accounts can be a productivity boost. This is a trick to have up your sleeve for when you need to manage multiple email accounts.
