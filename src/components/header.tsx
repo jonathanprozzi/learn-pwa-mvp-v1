@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 import { Flex, Heading, Link as ChakraLink } from '@chakra-ui/core';
-import ColorToggle from './colortoggle';
+import ColorToggle from './color-toggle';
 
 const Header: React.FC = () => {
   return (

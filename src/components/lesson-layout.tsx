@@ -5,12 +5,10 @@ import Layout from './layout';
 
 const LessonLayout = ({ title, body }) => (
   <Layout>
-    <Box>
-      <Heading as="h1" size="2xl">
-        {title}
-      </Heading>
-      <MDXRenderer>{body}</MDXRenderer>
-    </Box>
+    <Heading as="h1" size="xl">
+      {title}
+    </Heading>
+    <MDXRenderer>{body}</MDXRenderer>
   </Layout>
 );
 
