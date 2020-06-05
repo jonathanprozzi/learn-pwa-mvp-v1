@@ -1,6 +1,5 @@
 ---
 title: 'Google Calendar: Sharing and Responding to Events'
-slug: 'slug-6'
 date: '2020-05-07'
 ---
 

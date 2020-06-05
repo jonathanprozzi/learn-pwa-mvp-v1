@@ -1,6 +1,5 @@
 ---
 title: 'Google Calendar: Adding and Sharing Calendars'
-slug: 'slug-4'
 date: '2020-05-08'
 ---
 

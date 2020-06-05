@@ -1,6 +1,5 @@
 ---
 title: 'Google Calendar: Introduction and Overview'
-slug: 'slug-5'
 date: '2020-05-06'
 ---
 

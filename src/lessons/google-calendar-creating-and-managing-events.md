@@ -1,6 +1,5 @@
 ---
 title: 'Google Calendar: Creating and Managing Events'
-slug: 'slug-4'
 date: '2020-05-06'
 ---
 
