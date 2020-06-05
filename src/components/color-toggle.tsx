@@ -9,7 +9,7 @@ const ColorToggle = () => {
       position="fixed"
       top="1rem"
       right="1rem"
-      color="teal"
+      color="cyan"
       isChecked={isDark}
       onChange={toggleColorMode}
     />
