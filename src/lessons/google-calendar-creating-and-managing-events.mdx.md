@@ -1,6 +1,7 @@
 ---
-title: "Google Calendar: Creating and Managing Events"
-date: "2020-05-06"
+title: 'Google Calendar: Creating and Managing Events'
+slug: 'slug-4'
+date: '2020-05-06'
 ---
 
 ## Objectives and Overview
@@ -13,7 +14,7 @@ Events are the core of Google Calendar. This lesson introduces how to create, ma
 - Identify ways to manage Google Calendar events
 - Identify how to search your Google Calendar for specific events
 
-* * *
+---
 
 ## Google Calendar Events
 

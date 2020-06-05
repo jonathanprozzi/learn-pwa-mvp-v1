@@ -1,6 +1,7 @@
 ---
-title: "Chrome: Signing in to a Google Account"
-date: "2020-04-27"
+title: 'Chrome: Signing in to a Google Account'
+slug: 'slug-2'
+date: '2020-04-27'
 ---
 
 ## Objectives and Overview
@@ -14,7 +15,7 @@ This lesson demonstrates how to sign into your Google Account in the Chrome brow
 - Identify the benefits of signing in to Chrome with your Google Account
 - Identify the benefits of adding multiple accounts to Chrome
 
-* * *
+---
 
 ## Chrome and Google Accounts
 

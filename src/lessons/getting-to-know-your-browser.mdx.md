@@ -1,6 +1,7 @@
 ---
-title: "Getting to Know Your Browser"
-date: "2020-01-15"
+title: 'Getting to Know Your Browser'
+slug: 'slug-3'
+date: '2020-01-15'
 ---
 
 ## Objectives and Overview
@@ -14,7 +15,7 @@ Becoming comfortable with how a web browser works is a crucial digital literacy 
 - Demonstrate the ability to create a new tab and a new window
 - Identify Chrome browser shortcuts
 
-* * *
+---
 
 ## Getting to Know Chrome
 

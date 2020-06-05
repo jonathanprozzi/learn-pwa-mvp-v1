@@ -8,12 +8,24 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `lessons`,
+        path: `${__dirname}/src/lessons/`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-chakra-ui`,
       options: {
         isResettingCSS: true,
         isUsingColorMode: true,
       },
     },
-    `gatsby-plugin-mdx`,
+    {
+      resolve: `gatsby-plugin-mdx`,
+      options: {
+        extensions: ['.mdx', '.md'],
+      },
+    },
   ],
 };

@@ -1,6 +1,7 @@
 ---
-title: "Introduction to G Suite"
-date: "2020-05-04"
+title: 'Introduction to G Suite'
+slug: 'slug-7'
+date: '2020-05-04'
 ---
 
 ## Objectives and Overview
@@ -13,7 +14,7 @@ This lesson introduces Google's [G Suite](https://gsuite.google.com/), a collect
 - Identify the G Suite productivity, collaboration, and communication tools
 - Begin recognizing when to use each tool
 
-* * *
+---
 
 ## What is G Suite?
 

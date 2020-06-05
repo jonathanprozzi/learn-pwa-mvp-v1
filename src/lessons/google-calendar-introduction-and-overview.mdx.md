@@ -1,6 +1,7 @@
 ---
-title: "Google Calendar: Introduction and Overview"
-date: "2020-05-06"
+title: 'Google Calendar: Introduction and Overview'
+slug: 'slug-5'
+date: '2020-05-06'
 ---
 
 ## Objectives and Overview
@@ -13,7 +14,7 @@ This lesson introduces [Google Calendar](https://calendar.google.com/) and provi
 - Identify key pieces of the calendar interface
 - Identify how to navigate and toggle the calendar views
 
-* * *
+---
 
 ## What is Google Calendar?
 
@@ -68,9 +69,7 @@ The first group of navigation buttons is above the calendar. Clicking the **Toda
 Here's an example showing how these navigation buttons work together:
 
 - ![](images/google-calendar-navigation-3-2.gif)
-    
 - ![](images/google-calendar-navigation-2-1.gif)
-    
 
 There are navigation buttons in the month view in the sidebar. The **<** and **\>** buttons here move the sidebar calendar forward and back by a month:
 

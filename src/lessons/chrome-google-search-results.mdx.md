@@ -1,6 +1,7 @@
 ---
-title: "Chrome: Google Search Results"
-date: "2020-05-04"
+title: 'Chrome: Google Search Results'
+slug: 'slug-1'
+date: '2020-05-04'
 ---
 
 ## Objectives and Overview
@@ -9,7 +10,7 @@ This lesson is a "quick start" version that aims to quickly get you up and runni
 
 ### Lesson Objectives
 
-* * *
+---
 
 ## Google Search
 

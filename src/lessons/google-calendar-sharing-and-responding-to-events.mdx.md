@@ -1,6 +1,7 @@
 ---
-title: "Google Calendar: Sharing and Responding to Events"
-date: "2020-05-07"
+title: 'Google Calendar: Sharing and Responding to Events'
+slug: 'slug-6'
+date: '2020-05-07'
 ---
 
 ## Objectives and Overview
@@ -10,7 +11,7 @@ date: "2020-05-07"
 - Identify how to share Google Calendar events with others
 - Identify how to respond to Google Calendar invitations shared with you
 
-* * *
+---
 
 ## Sharing Events
 
@@ -55,9 +56,7 @@ This gif shows the steps for responding to an event invitation:
 You'll see your invitations in your calendar by looking for events that are white with border color. Let's look at an example of event invitation:
 
 - ![](images/google-calendar-responding-1-1-1024x616.jpg)
-    
 - ![](images/google-calendar-responding-2-1024x608.jpg)
-    
 
 Clicking on an event invitation brings up the event information. Invitations have an additional area where you can select if you're going:
 

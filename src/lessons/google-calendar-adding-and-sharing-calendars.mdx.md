@@ -1,6 +1,7 @@
 ---
-title: "Google Calendar: Adding and Sharing Calendars"
-date: "2020-05-08"
+title: 'Google Calendar: Adding and Sharing Calendars'
+slug: 'slug-4'
+date: '2020-05-08'
 ---
 
 ## Objectives and Overview
@@ -13,7 +14,7 @@ One of Google Calendar's strengths is that it's a collaborative tool. You're abl
 - Be able to share your calendar with someone else
 - Be able to add someone's calendar
 
-* * *
+---
 
 ## Managing Calendars
 
