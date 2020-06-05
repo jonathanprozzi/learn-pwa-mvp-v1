@@ -1,13 +1,17 @@
 import React from 'react';
 import { MDXRenderer } from 'gatsby-plugin-mdx';
+import { Box, Heading } from '@chakra-ui/core';
+import Layout from './layout';
 
 const LessonLayout = ({ title, body }) => (
-  <div>
-    <h1>{title}</h1>
-    <section>
+  <Layout>
+    <Box>
+      <Heading as="h1" size="2xl">
+        {title}
+      </Heading>
       <MDXRenderer>{body}</MDXRenderer>
-    </section>
-  </div>
+    </Box>
+  </Layout>
 );
 
 export default LessonLayout;

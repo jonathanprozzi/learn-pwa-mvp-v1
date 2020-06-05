@@ -1,14 +1,17 @@
-import React from "react";
-import { PageProps } from "gatsby";
-import { Box, Text } from "@chakra-ui/core";
-import Layout from "../components/layout";
+import React from 'react';
+import { Box, Button, Heading, Text, useColorMode } from '@chakra-ui/core';
+import Layout from '../components/layout';
 
-function IndexPage() {
+const IndexPage = () => {
   return (
     <Layout>
-      <Box p={8}></Box>
+      <Box p={5}>
+        <Heading size="md" mb={5}>
+          Hello World
+        </Heading>
+      </Box>
     </Layout>
   );
-}
+};
 
 export default IndexPage;

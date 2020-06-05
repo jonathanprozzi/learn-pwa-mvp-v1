@@ -24,19 +24,17 @@ export const query = graphql`
 
 const LessonTemplate = ({ data }) => {
   return (
-    <div>
-      <LessonLayout
-        title={data.mdx.frontmatter.title}
-        // date={data.mdx.frontmatter.date}
-        // categories={data.mdx.frontmatter.categories}
-        // excerpt={
-        //   data.mdx.frontmatter.excerpt
-        //     ? data.mdx.frontmatter.excerpt
-        //     : data.mdx.excerpt
-        // }
-        body={data.mdx.body}
-      ></LessonLayout>
-    </div>
+    <LessonLayout
+      title={data.mdx.frontmatter.title}
+      // date={data.mdx.frontmatter.date}
+      // categories={data.mdx.frontmatter.categories}
+      // excerpt={
+      //   data.mdx.frontmatter.excerpt
+      //     ? data.mdx.frontmatter.excerpt
+      //     : data.mdx.excerpt
+      // }
+      body={data.mdx.body}
+    ></LessonLayout>
   );
 };
 

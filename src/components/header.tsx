@@ -1,6 +1,7 @@
-import React from "react";
-import { Link } from "gatsby";
-import { Flex, Heading, Link as ChakraLink } from "@chakra-ui/core";
+import React from 'react';
+import { Link } from 'gatsby';
+import { Flex, Heading, Link as ChakraLink } from '@chakra-ui/core';
+import ColorToggle from './colortoggle';
 
 const Header: React.FC = () => {
   return (
@@ -16,7 +17,7 @@ const Header: React.FC = () => {
       <Flex
         direction="row"
         justify="space-around"
-        w={["100vw", "100vw", "80vw", "80vw"]}
+        w={['100vw', '100vw', '80vw', '80vw']}
       >
         <Link to="/">
           <ChakraLink color="teal.200">
@@ -25,6 +26,7 @@ const Header: React.FC = () => {
             </Heading>
           </ChakraLink>
         </Link>
+        <ColorToggle />
       </Flex>
     </Flex>
   );
