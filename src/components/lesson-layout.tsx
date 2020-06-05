@@ -1,14 +1,22 @@
 import React from 'react';
+import { Grid, Flex, Box, Heading } from '@chakra-ui/core';
 import { MDXRenderer } from 'gatsby-plugin-mdx';
-import { Box, Heading } from '@chakra-ui/core';
 import Layout from './layout';
+import LessonNav from './lesson-nav';
 
 const LessonLayout = ({ title, body }) => (
   <Layout>
-    <Heading as="h1" size="xl">
-      {title}
-    </Heading>
-    <MDXRenderer>{body}</MDXRenderer>
+    <Flex direction="column" maxW="900px" minHeight="100vh" margin="0 auto">
+      <LessonNav />
+      <Box marginX={4}>
+        <Heading as="h1" size="xl">
+          {title}
+        </Heading>
+        <Flex direction="column">
+          <MDXRenderer>{body}</MDXRenderer>
+        </Flex>
+      </Box>
+    </Flex>
   </Layout>
 );
 

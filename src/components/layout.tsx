@@ -13,6 +13,8 @@ import {
 } from '@chakra-ui/core';
 import Header from './Header';
 
+// TODO: Add more components
+
 const Layout: React.FC = ({ children }) => {
   return (
     <ThemeProvider theme={theme}>
@@ -35,7 +37,7 @@ const Layout: React.FC = ({ children }) => {
       >
         <ColorModeProvider>
           <CSSReset />
-          <Box overflowX="hidden" minHeight="100vh">
+          <Box overflowX="hidden" minHeight="100vh" margin="0 auto">
             <Header />
             <Box minHeight="90vh">{children}</Box>
           </Box>
