@@ -27,5 +27,26 @@ module.exports = {
         extensions: ['.mdx', '.md'],
       },
     },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Learn PWA v1`,
+        short_name: `learn-pwa-v1`,
+        start_url: `/`,
+        background_color: `#fff`,
+        // theme_color: `#0091c9`,
+        display: `minimal-ui`,
+        icon: `src/images/favicon.ico`, // This path is relative to the root of the site.
+        cache_busting_mode: 'none',
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-offline',
+      options: {
+        workboxConfig: {
+          globPatterns: ['**/*'],
+        },
+      },
+    },
   ],
 };
