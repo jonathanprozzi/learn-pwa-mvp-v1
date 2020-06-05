@@ -33,8 +33,6 @@ const Layout: React.FC = ({ children }) => {
           li: (props) => <Box as="li" pb="4px" {...props} />,
         }}
       >
-        {children}
-
         <ColorModeProvider>
           <CSSReset />
           <Box overflowX="hidden" minHeight="100vh">

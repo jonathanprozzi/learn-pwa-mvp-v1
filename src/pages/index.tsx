@@ -5,11 +5,7 @@ import Layout from '../components/layout';
 const IndexPage = () => {
   return (
     <Layout>
-      <Box p={5}>
-        <Heading size="md" mb={5}>
-          Hello World
-        </Heading>
-      </Box>
+      <Box p={5}></Box>
     </Layout>
   );
 };
