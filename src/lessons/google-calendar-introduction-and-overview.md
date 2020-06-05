@@ -36,27 +36,27 @@ Since you can share your calendar with other folks you can use Google Calendar t
 
 To access your calendar, open your browser and go to [calendar.google.com](http://calendar.google.com). You won't need to log in if you recently logged into your Google account. If you aren't logged in, you'll need to enter your Google email and password:
 
-![](images/google-calendar-1-1024x508.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-1-1024x508.jpg)
 
 Once you log in (or if you're already logged in) you'll see the main calendar view. It'll be completely blank until you start adding events.
 
-![](images/google-calendar-2-1024x609.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-2-1024x609.jpg)
 
 The main view is the actual calendar. Right now, it's set to show one week. This image shows one week of days and events:
 
-![](images/google-calendar-displays-1-1024x617.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-displays-1-1024x617.jpg)
 
 You may not always want to display a week. You're able to toggle this by clicking on the dropdown in the upper right corner. You're then able to select how you want to view the calendar. This is a personal preference.
 
-![](images/google-calendar-displays-2-1024x617.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-displays-2-1024x617.jpg)
 
 Clicking on each of the options in the dropdown changes the main view:
 
-![](images/google-calendar-switching-displays.gif)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-switching-displays.gif)
 
 Another useful item is the month view on the left sidebar. This provides a clickable overview of the current month. The current day is highlighted. Clicking on any day takes you directly to that day in your calendar.
 
-![](images/google-calendar-month-1024x617.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-month-1024x617.jpg)
 
 ### Navigating Your Calendar
 
@@ -64,15 +64,15 @@ There are a few different ways to navigate your calendar. There isn't a "right" 
 
 The first group of navigation buttons is above the calendar. Clicking the **Today** button jumps to the current day from wherever you are. For example, if you navigate to a month in the future, clicking this button brings you back. The **<** and **\>** buttons move the view forward and back based on the display setting. For example, if you're displaying by the week, these buttons move forward and back by a week.
 
-![](images/google-calendar-navigation-buttons-1024x617.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-navigation-buttons-1024x617.jpg)
 
 Here's an example showing how these navigation buttons work together:
 
-- ![](images/google-calendar-navigation-3-2.gif)
-- ![](images/google-calendar-navigation-2-1.gif)
+- ![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-navigation-3-2.gif)
+- ![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-navigation-2-1.gif)
 
 There are navigation buttons in the month view in the sidebar. The **<** and **\>** buttons here move the sidebar calendar forward and back by a month:
 
-![](images/google-calendar-navigation-1-1.gif)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-navigation-1-1.gif)
 
 Now that you have an idea of the general interface, it's time to start adding events. The next lesson covers how to create and manage events. Move on once you're ready!

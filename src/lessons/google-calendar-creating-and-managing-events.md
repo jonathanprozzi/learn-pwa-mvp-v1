@@ -26,55 +26,55 @@ Creating events is the backbone of Google Calendar. Without events, there isn't 
 
 This gif shows the steps for creating an event. The images after this break down each step.
 
-![](images/google-calendar-create-steps.gif)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-steps.gif)
 
 To start, click the **Create** button in the left sidebar:
 
-![](images/google-calendar-create-1-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-1-1024x616.jpg)
 
 Clicking that brings up the event information window. You're able to enter the title, adjust the event time, and add guests or a location.
 
-![](images/google-calendar-create-2-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-2-1024x616.jpg)
 
 Whatever name you provide for your event is what shows up on your calendar. In this example, the title "Work Session" is what shows up on the calendar view:
 
-![](images/google-calendar-create-3jpg-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-3jpg-1024x616.jpg)
 
 Here's the newly created event in the calendar view. The event uses the title you used:
 
-![](images/google-calendar-create-5-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-5-1024x616.jpg)
 
 #### Creating All-Day Events
 
 Another type of event is an **all-day** event. This is an event that spans an entire day. Here's a gif showing all of the steps:
 
-![](images/google-calendar-create-all-day-steps.gif)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-all-day-steps.gif)
 
 To create an all-day event, click in the white space around the date. Here's an image showing where to click on Tuesday, May 12:
 
-![](images/google-calendar-create-all-day-1-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-all-day-1-1024x616.jpg)
 
 This brings up the event details window with the time automatically set to be the entire day. This image shows that the event's time is _May 12, 2020 - May 12, 2020_. Enter the title and click the **Save** button to create the all-day event:
 
-![](images/google-calendar-create-all-day-2-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-all-day-2-1024x616.jpg)
 
 #### Creating Recurring Events
 
 The next type of event is a **recurring** event. This is an event that you create once and schedule to repeat on certain days. This gif shows all of the steps for creating this type of event:
 
-![](images/google-calendar-create-recurring.gif)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-recurring.gif)
 
 Create an event as you would with a one-time event and give it a name, but then set the frequency by adjusting the drop-down menu that says "Does not repeat":
 
-![](images/google-calendar-edit-frequency-1-2-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-edit-frequency-1-2-1024x616.jpg)
 
 Adjust the frequency of the event by selecting one of these options. Let's make our event repeat every by choosing the "Daily" option:
 
-![](images/google-calendar-edit-frequency-2-1-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-edit-frequency-2-1-1024x616.jpg)
 
 The event will now recreate itself every day:
 
-![](images/google-calendar-create-recurring-example-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-create-recurring-example-1024x616.jpg)
 
 If you ever need to update the frequency of an event, you can do this by clicking on the event and changing the frequency again.
 
@@ -82,15 +82,15 @@ If you ever need to update the frequency of an event, you can do this by clickin
 
 Knowing how to **edit** and **update** events is important. Sometimes, especially if you're in a hurry, you make a mistake scheduling an event. This happens a lot with either the title or the time. This gif shows all of the steps for updating an event's time:
 
-![](images/google-calendar-edit-steps.gif)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-edit-steps.gif)
 
 To update an event, click on the event in your calendar view. This brings up the event information modal. Click on the **pencil** button to edit your event:
 
-![](images/google-calendar-edit-1-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-edit-1-1024x616.jpg)
 
 Make your changes and then click the **Save** button. The changes are immediately used. If you change the time of an event, it'll move on your calendar.
 
-![](images/google-calendar-edit-2-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-edit-2-1024x616.jpg)
 
 ### Deleting Events
 
@@ -98,11 +98,11 @@ Knowing how to delete events is as important as creating and editing them. Let's
 
 Here's a gif showing all of the steps:
 
-![](images/google-calendar-delete-event-1.gif)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-delete-event-1.gif)
 
 To **delete** an event, click on the event you want to delete. This brings up the event details window. Next, click on the **trash can** button. This deletes the event.
 
-![](images/google-calendar-delete-1024x616.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-delete-1024x616.jpg)
 
 You won't get a confirmation asking if you want to delete the event, but you will have a chance to **undo** the delete if you need.
 
@@ -112,11 +112,11 @@ Once you have a lot of events, it's useful to know how to **search** them. Googl
 
 You access the search bar by clicking the **eyeglass** button in the panel above the main view:
 
-![](images/google-calendar-search-1-1024x617.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-search-1-1024x617.jpg)
 
 Clicking this button brings up a field where you can type your term. As you type, Google Calendar tries to guess what you're looking for. Sometimes this is helpful and sometimes it isn't! You're always able to ignore these suggestions and continue typing your phrase:
 
-![](images/google-calendar-search-2-1024x617.jpg)
+![](https://s3.amazonaws.com/learnresources/wp-content/uploads/2020/05/google-calendar-search-2-1024x617.jpg)
 
 After you enter your term, Google finds all events that match the phrase.
 

@@ -4,7 +4,7 @@ import LessonLayout from '../components/lesson-layout';
 
 export const query = graphql`
   query LessonQuery($slug: String!) {
-    mdx(frontmatter: { slug: { eq: $slug } }) {
+    mdx(fields: { slug: { eq: $slug } }) {
       body
       frontmatter {
         title
