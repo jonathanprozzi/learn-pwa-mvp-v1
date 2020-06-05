@@ -11,7 +11,7 @@ import {
   CSSReset,
   ColorModeProvider,
 } from '@chakra-ui/core';
-import Header from './Header';
+import Header from './header-main';
 
 // TODO: Add more components
 

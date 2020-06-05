@@ -3,7 +3,7 @@ import { Link } from 'gatsby';
 import { Flex, Heading, Link as ChakraLink } from '@chakra-ui/core';
 import ColorToggle from './color-toggle';
 
-const Header: React.FC = () => {
+const HeaderMain: React.FC = () => {
   return (
     <Flex
       direction="column"
@@ -32,4 +32,4 @@ const Header: React.FC = () => {
   );
 };
 
-export default Header;
+export default HeaderMain;
