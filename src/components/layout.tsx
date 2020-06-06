@@ -39,7 +39,7 @@ const Layout: React.FC = ({ children }) => {
           <CSSReset />
           <Box overflowX="hidden" minHeight="100vh" margin="0 auto">
             <Header />
-            <Box minHeight="90vh">{children}</Box>
+            <Box minHeight="90vh">{children}</Box>}
           </Box>
         </ColorModeProvider>
       </MDXProvider>

@@ -28,12 +28,12 @@ const TeleworkingTechnologyAndToolsCoursePage = ({ location }) => {
   `);
 
   return (
-    <div>
-      <h1>{location.state.courseName}</h1>
-      <img src={location.state.courseImage} alt="" />
-      <pre>{location.state.courseDescription}</pre>
-      <CourseLayout data={data} />
-    </div>
+    <CourseLayout
+      data={data}
+      courseName={location.state.courseName}
+      courseImage={location.state.courseImage}
+      courseDescription={location.state.courseDescription}
+    />
   );
 };
 
