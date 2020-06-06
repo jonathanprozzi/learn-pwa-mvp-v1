@@ -30,9 +30,9 @@ const TeleworkingTechnologyAndToolsCoursePage = ({ location }) => {
   return (
     <CourseLayout
       data={data}
-      courseName={location.state.courseName}
-      courseImage={location.state.courseImage}
-      courseDescription={location.state.courseDescription}
+      courseName={location.state.courseName || 'loading'}
+      courseImage={location.state.courseImage || 'loading'}
+      courseDescription={location.state.courseDescription || 'loading'}
     />
   );
 };
