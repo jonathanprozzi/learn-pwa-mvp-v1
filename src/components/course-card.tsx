@@ -9,13 +9,7 @@ import {
   Image,
 } from '@chakra-ui/core';
 
-const CourseCard = () => {
-  const courseName = 'Teleworking Technology & Tools';
-  const courseImage =
-    'https://images.unsplash.com/photo-1531177923694-725d0301f290?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=900&ixid=eyJhcHBfaWQiOjF9&ixlib=rb-1.2.1&q=80&w=1600';
-  const courseDescription =
-    'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Labore, consequatur.';
-
+const CourseCard = ({ courseName, courseImage, courseDescription }) => {
   return (
     <PseudoBox
       w="100%"

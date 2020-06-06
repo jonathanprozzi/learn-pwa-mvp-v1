@@ -1,7 +1,7 @@
 import React from 'react';
 import { Box, Button, Heading, Text, useColorMode } from '@chakra-ui/core';
 import Layout from '../components/layout';
-import CourseGrid from '../components/course-card';
+import CourseGrid from '../components/course-grid';
 
 const IndexPage = () => {
   return (
