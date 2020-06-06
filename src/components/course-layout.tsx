@@ -8,7 +8,7 @@ const CourseLayout = ({ data, courseName, courseImage, courseDescription }) => {
     <Layout>
       <Flex d="column" align="center" justify="center" p={4} m={2}>
         <Heading as="h2" size="xl" textAlign="center">
-          {courseName}
+          {courseName ? courseName : 'Loading Name'}
         </Heading>
         <Flex direction="column" align="center" justify="center" marginTop={4}>
           <Box maxW="2xl" borderWidth="1px" rounded="lg" overflow="hidden">
