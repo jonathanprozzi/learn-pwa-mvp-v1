@@ -1,10 +1,8 @@
 import React from 'react';
 import { graphql, useStaticQuery, Link } from 'gatsby';
-import { Box, Button, Heading, Text, useColorMode } from '@chakra-ui/core';
-import Layout from '../components/layout';
-import CourseGrid from '../components/course-grid';
+import CourseLayout from '../components/course-layout';
 
-const TeleworkingTechnologyAndToolsCoursePage = () => {
+const TeleworkingTechnologyAndToolsCoursePage = ({ location }) => {
   const data = useStaticQuery(graphql`
     query MyQuery {
       allMdx(
@@ -30,17 +28,12 @@ const TeleworkingTechnologyAndToolsCoursePage = () => {
   `);
 
   return (
-    <Layout>
-      <Box p={5}>
-        {data.allMdx.edges.map(({ node }) => (
-          <div key={node.id}>
-            <Link to={`${node.frontmatter.course}/${node.fields.slug}`}>
-              {node.fields.slug}
-            </Link>
-          </div>
-        ))}
-      </Box>
-    </Layout>
+    <div>
+      <h1>{location.state.courseName}</h1>
+      <img src={location.state.courseImage} alt="" />
+      <pre>{location.state.courseDescription}</pre>
+      <CourseLayout data={data} />
+    </div>
   );
 };
 
