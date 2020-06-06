@@ -9,7 +9,7 @@ import {
   Image,
 } from '@chakra-ui/core';
 
-const CourseCard = ({ courseName, courseImage, courseDescription }) => {
+const CourseCard = ({ courseName, courseImage, courseDescription, isNew }) => {
   return (
     <PseudoBox
       w="100%"
@@ -22,15 +22,15 @@ const CourseCard = ({ courseName, courseImage, courseDescription }) => {
         boxShadow: '0px 4px 10px rgba(0, 0, 0, 0.5)',
       }}
     >
-      <Image src={courseImage} alt="asdf" rounded="md" />
+      <Image src={courseImage} alt="asdf" roundedTop="md" />
       <Box p="4" alignItems="center" justifyContent="center">
         <Box d="flex" alignItems="baseline">
-          {/* {data.isNew && (
+          {/* {isNew && (
             <Badge rounded="full" px="2" variantColor="teal">
               New
             </Badge>
-          )}
-          */}
+          )} */}
+
           <Box
             color="gray.500"
             fontWeight="semibold"

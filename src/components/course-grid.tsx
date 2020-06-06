@@ -18,6 +18,7 @@ const CourseGrid: React.FC = () => {
           courseName="Teleworking Technology & Tools"
           courseImage="https://images.unsplash.com/photo-1497515114629-f71d768fd07c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60"
           courseDescription="Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima dolorem tempora ducimus deserunt porro aliquid nulla perferendis ab facere non?"
+          isNew
         />
         <CourseCard
           courseName="Digital Literacy Concepts"
