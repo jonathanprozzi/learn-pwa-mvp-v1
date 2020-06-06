@@ -4,7 +4,7 @@ import { MDXRenderer } from 'gatsby-plugin-mdx';
 import Layout from './layout';
 import LessonNav from './lesson-nav';
 
-const LessonLayout = ({ title, body }) => (
+const LessonLayout = ({ title, course, body }) => (
   <Layout>
     <Flex direction="column" maxW="900px" minHeight="100vh" margin="0 auto">
       <LessonNav />
@@ -12,6 +12,7 @@ const LessonLayout = ({ title, body }) => (
         <Heading as="h1" size="xl">
           {title}
         </Heading>
+        <pre>{course}</pre>
         <Flex direction="column">
           <MDXRenderer>{body}</MDXRenderer>
         </Flex>

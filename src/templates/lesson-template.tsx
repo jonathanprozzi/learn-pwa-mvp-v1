@@ -9,6 +9,7 @@ export const query = graphql`
       frontmatter {
         title
         slug
+        course
         # date(formatString: "MMMM DD, YYYY")
         # excerpt
         # categories
@@ -34,6 +35,7 @@ const LessonTemplate = ({ data }) => {
       //     : data.mdx.excerpt
       // }
       body={data.mdx.body}
+      course={data.mdx.frontmatter.course}
     ></LessonLayout>
   );
 };

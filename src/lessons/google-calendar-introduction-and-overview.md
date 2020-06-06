@@ -1,5 +1,6 @@
 ---
 title: 'Google Calendar: Introduction and Overview'
+course: 'asdf'
 date: '2020-05-06'
 ---
 

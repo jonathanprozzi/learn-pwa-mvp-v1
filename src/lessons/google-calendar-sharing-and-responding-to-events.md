@@ -1,5 +1,6 @@
 ---
 title: 'Google Calendar: Sharing and Responding to Events'
+course: 'asdf'
 date: '2020-05-07'
 ---
 

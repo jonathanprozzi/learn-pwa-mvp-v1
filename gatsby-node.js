@@ -26,6 +26,12 @@ exports.onCreateNode = ({ node, actions }) => {
       node,
       name: 'slug',
       value: `${contentPath}${slug}`,
+      // value: slug,
+    });
+    actions.createNodeField({
+      node,
+      name: 'course',
+      value: 'course-node',
     });
   }
 };
@@ -41,6 +47,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
           }
           frontmatter {
             title
+            course
             slug
           }
         }
@@ -57,11 +64,10 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
 
   result.data.allMdx.nodes.forEach((node) => {
     createPage({
-      // path: `/lessons/${node.frontmatter.slug}`,
-      path: node.fields.slug,
+      path: `${node.frontmatter.course}/${node.fields.slug}`,
+      // path: `${node.frontmatter.course}/lessons/${node.fields.slug}`,
       component: require.resolve('./src/templates/lesson-template.tsx'),
-      // context: { slug: node.frontmatter.slug },
-      context: { slug: node.fields.slug },
+      context: { slug: node.fields.slug, course: node.fields.course },
     });
   });
 };

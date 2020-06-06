@@ -1,5 +1,6 @@
 ---
 title: 'Google Calendar: Adding and Sharing Calendars'
+course: 'asdf'
 date: '2020-05-08'
 ---
 

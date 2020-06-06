@@ -1,5 +1,6 @@
 ---
 title: 'Google Calendar: Creating and Managing Events'
+course: 'asdf'
 date: '2020-05-06'
 ---
 
