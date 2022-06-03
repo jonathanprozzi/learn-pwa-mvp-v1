@@ -23,7 +23,7 @@
     "gatsby": "^2.22.15",
     "gatsby-plugin-chakra-ui": "^0.1.4",
     "gatsby-plugin-manifest": "^2.4.10",
-    "gatsby-plugin-mdx": "^1.2.14",
+    "gatsby-plugin-mdx": "^2.14.1",
     "gatsby-plugin-offline": "^3.2.8",
     "gatsby-source-filesystem": "^2.3.10",
     "lodash.kebabcase": "^4.1.1",
